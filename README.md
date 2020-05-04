@@ -4,3 +4,7 @@ Junior Project with Giselle Freude. Created a bike alarm system that sends you p
 
 Demo Videos with pic32 microcontroller and arduino microcontroller.
 
+[![Video demo!](https://img.youtube.com/vi/shP1Yo93AVY/0.jpg)](https://youtu.be/shP1Yo93AVY)
+
+
+[![Video demo!](https://img.youtube.com/vi/PlM5PzMWeWo/0.jpg)](https://youtu.be/PlM5PzMWeWo)
