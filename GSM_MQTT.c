@@ -45,7 +45,7 @@ int stringComplete = 0;  // whether the string is complete
 void serialEvent();
 
 void AutoConnect(){
-    connect("PIC", 1, 1, "GiselleLFreude", "d8420283b79848939865671841e0dbc5", 0, 0, 0, 0, "", "");  
+    connect("PIC", 1, 1, "xxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxx", 0, 0, 0, 0, "", "");  
 }
 
 void OnConnect(void)
@@ -1087,7 +1087,7 @@ void MakePhoneCall()
     disconnect();
     delay(7000);
     ResetNewBuffer();
-    WriteString("ATD5412952229;\r\n"); //calling Giselle's phone
+    WriteString("ATDxxxxxxxxxx;\r\n"); //calling phone
     delay(16000);
     ResetNewBuffer();
     resetGSM();
